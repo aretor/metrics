@@ -4,9 +4,9 @@ Quick Start
 
 TorchMetrics is a collection of 25+ PyTorch metrics implementations and an easy-to-use API to create custom metrics. It offers:
 
-* A standardized interface to increase reproducability
+* A standardized interface to increase reproducibility
 * Reduces Boilerplate
-* Distrubuted-training compatible
+* Distributed-training compatible
 * Rigorously tested
 * Automatic accumulation over batches
 * Automatic synchronization between multiple devices
